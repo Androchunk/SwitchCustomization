@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- to place thumb under the track use negative padding -->
+    <dimen name="switch_padding">-1dp</dimen>
+    <dimen name="switch_radius">36dp</dimen>
+    <dimen name="switch_size">36dp</dimen>
+</resources>
